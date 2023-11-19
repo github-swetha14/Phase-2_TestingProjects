@@ -1,0 +1,20 @@
+<suite name="test1" verbose="1">
+	
+	
+	<test name="POMFramework">
+		<classes>
+			
+			<class name="redbusProject.Testpages.NavigateTest"></class>
+			<class name="redbusProject.Testpages.AccountPageTest"></class>
+			<class name="redbusProject.Testpages.BookBusTicketTest"></class>
+			
+			
+		</classes>	
+	</test>
+		
+</suite>
+
+
+
+
+
